@@ -1,24 +1,60 @@
-# 100 Days of Code – Python
+# 🐍 100 Days of Code - Python Bootcamp
 
-This repository documents my journey through **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
+## 📖 Overview
 
-## Progress
+This repository documents my journey through **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
+
+Each day's folder contains my solutions, notes, and reflections as I progress through the course. The goal of this repository is to strengthen my Python programming skills while building a collection of practical projects.
+
+---
+
+## 📚 Topics Covered
+
+- Python Fundamentals
+- Control Flow
+- Functions
+- Data Structures
+- Object-Oriented Programming
+- File Handling
+- APIs
+- Web Scraping
+- Automation
+- Data Analysis
+- Web Development
+- Databases
+- Testing & Debugging
+
+---
+
+## 📂 Projects
 
 | Day | Project | Status |
-|-----|---------|:------:|
-| 1 | Band Name Generator | ✅ |
-| 2 | Tip Calculator | ✅ |
-| 3 | Treasure Island | ✅ |
-| 4 | Rock Paper Scissors | ✅ |
-| 5 | Password Generator | ✅ |
-| 6 | Reeborg's World | ✅ |
-| 7 | Hangman | ✅ |
-| 8 | Caesar Cipher | ✅ |
+|------|-----------------------------|:------:|
+| Day 1 | Band Name Generator | ✅ |
+| Day 2 | Tip Calculator | ✅ |
+| Day 3 | Treasure Island | ✅ |
+| Day 4 | Rock Paper Scissors | ✅ |
+| Day 5 | Password Generator | ✅ |
+| Day 6 | Reeborg's World Challenges | ✅ |
+| Day 7 | Hangman | ✅ |
+| Day 8 | Caesar Cipher | ✅ |
+| Day 9 | Secret Auction | ✅ |
 
-## Repository Structure
+---
 
-Each day contains:
-- Source code
-- Project-specific README
-- Notes on concepts learned
-- Ideas for future improvements
+## 🎯 Goals
+
+- Complete all 100 days of the bootcamp
+- Build a strong foundation in Python
+- Write clean, readable, and maintainable code
+- Develop problem-solving skills through hands-on projects
+- Learn and apply Git & GitHub best practices
+
+---
+
+## 🚀 Future Improvements
+
+- Continue documenting each day's learning
+- Refactor earlier projects as new concepts are learned
+- Add more advanced Python projects as the course progresses
+- Complete all 100 days with consistent documentation
