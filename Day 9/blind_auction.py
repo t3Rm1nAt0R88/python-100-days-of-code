@@ -1,6 +1,18 @@
 from art import logo
 print(logo)
 
+# TODO-4: Compare bids in dictionary
+def find_highest_bidder(bidding_dictionary):
+    max_bid = 0
+    max_bidder = ''
+    for bid in bidding_dictionary:
+        if bidding_dictionary[bid] > max_bid:
+            max_bid = bidding_dictionary[bid]
+            max_bidder = bid
+
+    print(f"The winner is {max_bidder} with a bid of ${max_bid}.")
+
+
 bids = {}
 bidding = True
 
@@ -10,7 +22,6 @@ while bidding:
     price = int(input("What is your bid ? $"))
 
     # TODO-2: Save data into dictionary {name: price}
-
     bids[name] = price
 
     # TODO-3: Whether if new bids need to be added
@@ -18,14 +29,8 @@ while bidding:
     print("\n" * 100)
     if more_bidders == 'no':
         bidding = False
+        find_highest_bidder(bids)
 
-# TODO-4: Compare bids in dictionary
 
-max_bid = 0
-max_bidder = ''
-for bid in bids:
-    if bids[bid] > max_bid:
-        max_bid = bids[bid]
-        max_bidder = bid
 
-print(f"The winner is {max_bidder} with a bid of ${max_bid}.")
+
