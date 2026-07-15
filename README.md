@@ -40,6 +40,7 @@ Each day's folder contains my solutions, notes, and reflections as I progress th
 | Day 8 | Caesar Cipher | ✅ |
 | Day 9 | Secret Auction | ✅ |
 | Day 10 | Calculator | ✅ |
+| Day 11 | Blackjack | ✅ |
 
 ---
 
