@@ -42,6 +42,8 @@ Each day's folder contains my solutions, notes, and reflections as I progress th
 | Day 10 | Calculator                 |   ✅   |
 | Day 11 | Blackjack                  |   ✅   |
 | Day 12 | Number Guessing Game       |   ✅   |
+| Day 13 | Debugging                  |   ✅   |
+| Day 14 | Higher or Lower            |   ✅   |
 
 ---
 
