@@ -44,6 +44,7 @@ Each day's folder contains my solutions, notes, and reflections as I progress th
 | Day 12 | Number Guessing Game       |   ✅   |
 | Day 13 | Debugging                  |   ✅   |
 | Day 14 | Higher or Lower            |   ✅   |
+| Day 15 | Coffee Machine             |   ✅   |
 
 ---
 
