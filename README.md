@@ -51,7 +51,7 @@ The course covers a wide range of Python programming concepts, including:
 ✅ **Data Science** - Pandas, NumPy, Matplotlib, and data analysis  
 ✅ **Databases** - SQL, SQLite, PostgreSQL, and database integration  
 ✅ **APIs & Authentication** - Working with external APIs and authentication systems  
-✅ **Version Control** - Git, GitHub, and professional development workflows  
+✅ **Version Control** - Git, GitHub, and professional development workflows
 
 The goal is to progress from Python fundamentals to building practical, real-world applications.
 
@@ -83,7 +83,7 @@ The goal is to progress from Python fundamentals to building practical, real-wor
 ### 📚 Intermediate - Day 15 to 31
 
 - [Day 15](Day%2015/) - Coffee Machine.
-- Day 16 - Object-Oriented Programming.
+- [Day 16](Day%2016/) - Object-Oriented Programming.
 - Day 17 - Classes and Objects.
 - Day 18 - Turtle Graphics and GUI Programming.
 - Day 19 - Event-Driven Programming.
