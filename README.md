@@ -84,7 +84,7 @@ The goal is to progress from Python fundamentals to building practical, real-wor
 
 - [Day 15](Day%2015/) - Coffee Machine.
 - [Day 16](Day%2016/) - Object-Oriented Programming.
-- Day 17 - Classes and Objects.
+- [Day 17](Day%2017/) - Classes and Objects.
 - Day 18 - Turtle Graphics and GUI Programming.
 - Day 19 - Event-Driven Programming.
 - Day 20 - Intermediate Python Projects.
