@@ -33,15 +33,16 @@ The goal is to consistently practice Python, build projects, and strengthen my u
 | Day 15 | Coffee Machine | ✅ Completed |
 | Day 16 | Coffee Machine - Object-Oriented Programming | ✅ Completed |
 | Day 17 | The Quiz Project | ✅ Completed |
-| Day 18 | Coming Soon | ⏳ In Progress |
+| Day 18 | Hirst Painting using Turtle Graphics | ✅ Completed |
+| Day 19 | Coming Soon | ⏳ In Progress |
 
 ---
 
 ## 📈 Current Progress
 
-**17 / 100 Days Completed**
+**18 / 100 Days Completed**
 
-**17% Complete 🎯**
+**18% Complete 🎯**
 
 ---
 
@@ -51,6 +52,7 @@ The goal is to consistently practice Python, build projects, and strengthen my u
 - PyCharm
 - Git
 - GitHub
+- VS Code
 
 ---
 
