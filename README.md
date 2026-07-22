@@ -34,7 +34,8 @@ The goal is to consistently practice Python, build projects, and strengthen my u
 | Day 16 | Coffee Machine - Object-Oriented Programming | ✅ Completed |
 | Day 17 | The Quiz Project | ✅ Completed |
 | Day 18 | Hirst Painting using Turtle Graphics | ✅ Completed |
-| Day 19 | Coming Soon | ⏳ In Progress |
+| Day 19 | Turtle Race | ✅ Completed |
+| Day 20 | Coming Soon | ⏳ In Progress |
 
 ---
 
